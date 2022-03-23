@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Gelasio';
+    src: url('Gelasio-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    font-size: 20px;
+    line-height: 150%;
+    }
+
+    @font-face {
+        font-family: 'Gelasio';
+        src: url('Gelasio-SemiBold.woff2') format('woff2');
+        font-weight: 600;
+        font-style: normal;
+        font-display: swap;
+        }
